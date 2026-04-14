@@ -2,6 +2,14 @@
 
 
 
+\## v2.0.0
+
+\- Notes saved to file
+
+\- Persistent storage added
+
+
+
 \## v1.1.0
 
 \- Added delete note feature
@@ -15,5 +23,4 @@
 \- Initial release
 
 \- Added add/view notes functionality
-
 
